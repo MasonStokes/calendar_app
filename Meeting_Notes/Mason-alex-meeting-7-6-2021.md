@@ -1,0 +1,7 @@
+- got Project Solution running on Alex's new machine
+- Alex is starting a wireframe
+- next steps:
+	- basic calendar
+	- iCal protocol implementation
+	- wireframes of starting design
+	- basic implementation in shared view
