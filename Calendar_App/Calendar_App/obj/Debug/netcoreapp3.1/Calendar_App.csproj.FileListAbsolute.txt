@@ -97,7 +97,6 @@ C:\Users\Mason\IdeaIncubator\Calendar_App\Calendar_App\Calendar_App\bin\Debug\ne
 C:\Users\Mason\IdeaIncubator\Calendar_App\Calendar_App\Calendar_App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Mason\IdeaIncubator\Calendar_App\Calendar_App\Calendar_App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Mason\IdeaIncubator\Calendar_App\Calendar_App\Calendar_App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Mason\IdeaIncubator\Calendar_App\Calendar_App\Calendar_App\obj\Debug\netcoreapp3.1\Calendar_App.csprojAssemblyReference.cache
 C:\Users\Mason\IdeaIncubator\Calendar_App\Calendar_App\Calendar_App\obj\Debug\netcoreapp3.1\Calendar_App.AssemblyInfoInputs.cache
 C:\Users\Mason\IdeaIncubator\Calendar_App\Calendar_App\Calendar_App\obj\Debug\netcoreapp3.1\Calendar_App.AssemblyInfo.cs
 C:\Users\Mason\IdeaIncubator\Calendar_App\Calendar_App\Calendar_App\obj\Debug\netcoreapp3.1\Calendar_App.csproj.CoreCompileInputs.cache
